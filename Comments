@@ -1,0 +1,167 @@
+1
+<!-- <div class="line-3-70"></div> -->
+          <!-- <div class="container">
+            <div class="row"> -->
+              <!-- <div class="col-xs-12 col-sm-6 col-md-6"> -->
+                
+                <!-- <div class="line-3-70"></div> -->
+              <!-- </div>
+            </div>
+          </div> -->
+          <!-- <p class="port-view-more">OUR CORE SERVICES</p> -->
+          
+				
+    2
+    <!-- FEATURES 4 -->
+				<!-- <div class="page-section fes4-cont">
+					<div class="container">
+            <div class="row">
+            
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="fes4-box wow fadeIn">
+								  <h2 class="section-title">OUR CORE <br><span class="bold">SERVICES</span></h2>
+								</div>
+							</div>            
+							<div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="fes4-box wow fadeIn" data-wow-delay="200ms">
+								  <div class="fes4-title-cont" >
+								  	<div class="fes4-box-icon">
+								  		<div class="icon icon-basic-settings"></div>
+								  	</div>
+								  	<h3><span class="bold">REAL-TIME PAYMENT SOLUTIONS</span></h3>
+								  	<p>LOREM IPSUM DOLOR</p>
+								  </div>
+								  <div>
+								     Electronic payment system has grown increasingly over the last decades due to the growing spread of internet-based banking and shopping.
+
+                    Black Silicon deploys top-notch payment solution to its clients to tap into this rapidly growing service space to develop more seamless method of making payments and making existing payment channels run smoother.
+								  </div>
+								</div>
+							</div>
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="fes4-box wow fadeIn" data-wow-delay="400ms">
+								  <div class="fes4-title-cont" >
+								  	<div class="fes4-box-icon">
+								  		<div class="icon icon-basic-share"></div>
+								  	</div>
+								  	<h3><span class="bold">VALUE ADDES SERVICES</span></h3>
+								  	<p>LOREM IPSUM DOLOR</p>
+								  </div>
+								  <div>
+								    We are an expert in interactive mobile communications and Valued Added Services. We deliver end-to-end mobile value-added solutions for seamless connectivity, enhancing customer relationships across multiple sectors. We support and provide SMS, MMS, USSD, Voice, Payment solutions that are secure and compatible on all devices in the mobile ecosystem.
+								  </div>
+								</div>
+							</div>
+						</div> -->
+
+						<!-- <div class="row">
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="fes4-box wow fadeIn" data-wow-delay="600ms">
+								  <div class="fes4-title-cont" >
+								  	<div class="fes4-box-icon">
+								  		<div class="icon icon-basic-target"></div>
+								  	</div>
+								  	<h3><span class="bold">SYSTEM INTEGRATION</span></h3>
+								  	<p>LOREM IPSUM DOLOR</p>
+								  </div>
+								  <div>
+                    Using our system integrators, Black Silicon can align cheaper, preconfigured components and “commercial off-the-shelf” software to meet key business goals, as opposed to more expensive, customised implementations that may require original programming or manufacturing unique components.
+
+                    We can also simplify contracting and vendor management for our clients, who otherwise need to purchase each subsystem separately and work with multiple vendors.
+								  </div>
+								</div>
+							</div>
+
+							<div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="fes4-box wow fadeIn" data-wow-delay="400ms">
+								  <div class="fes4-title-cont" >
+								  	<div class="fes4-box-icon">
+								  		<div class="icon icon-basic-share"></div>
+								  	</div>
+								  	<h3><span class="bold">SOFTWARE DEVELOPMENT</span></h3>
+								  	<p>LOREM IPSUM DOLOR</p>
+								  </div>
+								  <div>
+								    Black Silicon is dedicated to the development of commercial software as demanded in the marketplace and also creation of enterprise software tailored to the specific needs within an environment.
+
+                    Our bank of coders are committed to working collaboratively to come up with unique solutions that are useful open source or engineered to serve specified purposes.
+								  </div>
+								</div>
+							</div>
+              
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="fes4-box wow fadeIn" data-wow-delay="1000ms">
+								  <div class="fes4-title-cont" >
+								  	<div class="fes4-box-icon">
+								  		<div class="icon icon-basic-picture"></div>
+								  	</div>
+								  	<h3><span class="bold">PHOTOGRAPHY</span></h3>
+								  	<p>LOREM IPSUM DOLOR</p>
+								  </div>
+								  <div>
+								    Fermentum nisi in sem fertum blat. In elit soldin, elemtum, arenam pur quam volutpat suscipit dictum pur quam.
+								  </div>
+								</div>
+							</div>              
+            </div> -->
+<!-- 
+					</div>
+				</div> -->
+
+
+3
+    <!-- FEATURES 5
+				<div class="page-section">
+					<div class="container-fluid">
+						<div class="row">
+							
+							<div class="col-md-6 left-50 wow fadeInRight equal-height">
+									<div class="fes2-main-text-cont">
+										<div class="title-fs-45">
+										GRAPHIC DESIGN<br>
+											<span class="bold"> & BRANDING</span>
+										</div>
+										<div class="line-3-100"></div>
+										<div class="fes2-text-cont">We are an expert in interactive mobile communications and Valued Added Services. We deliver end-to-end mobile value-added solutions for seamless connectivity, enhancing customer relationships across multiple sectors. We support and provide SMS, MMS, USSD, Voice, Payment solutions that are secure and compatible on all devices in the mobile ecosystem.</div>
+									</div>
+							</div>
+              
+              <div class="col-md-6 right-50">
+								<div class="row">
+									<div class="fes3-img equal-height" ></div>
+								</div>
+							</div>
+              
+						</div>
+					</div>
+				</div> -->
+
+
+    4
+      <!-- <div class="col-md-3 col-sm-3 widget">
+                <h4>ADDRESS</h4>
+                <div class="footer-2-text-cont">
+                  <address>
+                    72 Jubilee road, <br> Ketu, Ikosi, Lagos.
+                  </address>
+                </div>
+                <div class="footer-2-text-cont">
+                  +234 803 334 7052
+                </div>
+                <div class="footer-2-text-cont">
+                  <a class="a-text" href="mailto:support@blacksilicon.com">support@blacksilicon.com</a>
+                </div>
+              </div>
+            </div>    
+          </div> -->
+
+
+   5
+          
+              <!-- <div class="col-md-3 col-sm-3 widget">
+                <div class="logo-footer-cont">
+                  <a href="index.html">
+                    <img class="logo-footer" src="images/logo.svg" alt="logo">
+                  </a>
+                </div>
+              </div> -->   
