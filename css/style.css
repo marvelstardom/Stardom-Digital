@@ -24,7 +24,19 @@
 }
 
 .img-item {
-    /* box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    width: 33% !important;
+    float: left !important;
+    /* padding: 1%; */
+    list-style-type: none !important;
+    list-style: none;
+    text-align: left !important;
+}
+
+.graphic-list {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    
 }
 
 /*--------------------------MINIFIED/COMPRESSED---------------------------
